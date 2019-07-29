@@ -12,3 +12,7 @@ We are asking you to predict total sales for every product and store in the next
 - core feature engineering work
 - img
   all analysis plots
+
+
+### source
+https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
